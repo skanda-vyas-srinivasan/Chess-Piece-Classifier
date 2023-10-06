@@ -16,7 +16,7 @@ This project in essence, uses a Convolutional Neural Network in order to classif
 
 ## Model Architecture
 
-<div align = "center">![cnn model](https://github.com/golgiwaffles/Chess-Piece-Classifier/blob/main/brain_model.h5.png)</div>
+<div align="center">[![cnn model](https://github.com/golgiwaffles/Chess-Piece-Classifier/blob/main/brain_model.h5.png)]</div>
 
 
 
