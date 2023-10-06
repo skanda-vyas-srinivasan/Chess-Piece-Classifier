@@ -14,6 +14,8 @@ A dataset from Kaggle, which contains images of chess pieces.
 
 This project in essence, uses a Convolutional Neural Network in order to classify images of chess pieces to their respective labelS. The classifier is enabled to detect whether a particular piece is a pawn, knight, bishop, queen or a king.
 
-### p
+### project pipelin
+
+aj
 
 
