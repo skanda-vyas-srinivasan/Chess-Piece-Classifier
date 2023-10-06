@@ -1,6 +1,6 @@
 # Chess Piece Classifier
 
- A Neural Network classifier that is used to classify images of chess pieces
+A Neural Network classifier that is used to classify images of chess pieces
 
 ## Programming Languages/Libraries/Frameworks
 
