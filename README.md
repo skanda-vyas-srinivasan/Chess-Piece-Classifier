@@ -10,7 +10,7 @@ TensorFlow, Python, Keras
 
 A dataset from Kaggle, which contains images of chess pieces. 
 
-"Chess Pieces Dataset (85 x 85)"
+**Chess Pieces Dataset (85 x 85)**
 
 Link : https://www.kaggle.com/datasets/s4lman/chess-pieces-dataset-85x85
 
