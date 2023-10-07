@@ -18,6 +18,17 @@ Link : https://www.kaggle.com/datasets/s4lman/chess-pieces-dataset-85x85
 
 This project in essence, uses a Convolutional Neural Network in order to classify images of chess pieces to their respective labelS. The classifier is enabled to detect whether a particular piece is a pawn, knight, bishop, queen or a king.
 
+#### Data Splitting
+
+Used the Zipfile Module to unzip the image file.
+
+Once the file was unzipped, I created two directories called training and validation, with subdirectories labelling each chess piece. I then shuffled the images in the original data files and transferred them such that 20% of the data went to the validation set, and 80% went to the training set.
+
+#### Image Processing
+
+I used **ImageDataGenerator** from *tensorflow.keras.preprocessing.image* to augment the images to virtually increase the size of the dataset. I added parameters in order to horizontally flip the image, change the brightness, zoom in or zoom out, shift width and height, and other augmentations.
+
+Once the images were augmented, I created generators in order to flow the images from the given directories.
 
 #### Model Architecture
 
