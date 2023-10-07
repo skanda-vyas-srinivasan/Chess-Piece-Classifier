@@ -25,6 +25,8 @@ The model at hand uses 3 convolutional layers in order to extract features of th
 
 The network is finally compiled using the loss function **categorical_crossentropy** and the optimizer **adam** 
 
+Here is a diagrammatic representation of the Neural Network Model:
+
 <div align="center">
   <img src = "https://github.com/golgiwaffles/Chess-Piece-Classifier/blob/main/Chessmodel.h5.png" width = "137px" height = "1396px" />
 </div>
