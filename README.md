@@ -49,6 +49,7 @@ Once the model is trained, there is a section where you can upload an image of a
 
 ## Contact
 **Name**: Skanda Vyas Venkatraman Srinivasan
+
 **Email**: skandavyas20@gmail.com
 
 
