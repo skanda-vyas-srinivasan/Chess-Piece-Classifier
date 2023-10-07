@@ -42,8 +42,14 @@ Here is a diagrammatic representation of the Neural Network Model:
   <img src = "https://github.com/golgiwaffles/Chess-Piece-Classifier/blob/main/Chessmodel.h5.png" width = "137px" height = "1396px" />
 </div>
 
+#### Output
 
+The model is fitted with the training set for a 100 epochs.
+Once the model is trained, there is a section where you can upload an image of a chess piece, and the model guesses which chess piece it is.
 
+## Contact
+**Name**: Skanda Vyas Venkatraman Srinivasan
+**Email**: skandavyas20@gmail.com
 
 
 
