@@ -17,9 +17,10 @@ This project in essence, uses a Convolutional Neural Network in order to classif
 ## Model Architecture
 
 <div align="center">
-  <img src = "https://github.com/golgiwaffles/Chess-Piece-Classifier/blob/main/brain_model.h5.png" width = "137px" height = "1396px" />
+  <img src = "https://github.com/golgiwaffles/Chess-Piece-Classifier/blob/main/Chessmodel.h5.png" width = "137px" height = "1396px" />
 </div>
 
+##
 
 
 
